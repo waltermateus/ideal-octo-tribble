@@ -1,0 +1,230 @@
+
+ÖU
+9
+android*http://schemas.android.com/apk/res/androidmanifest"%packageio.github.waltermateus.twa"K
+*http://schemas.android.com/apk/res/androidversionCode1"(›„„2:0"G
+*http://schemas.android.com/apk/res/androidversionName1.0.0.0(œ„„"R
+*http://schemas.android.com/apk/res/androidcompileSdkVersion33"(òŠ„2:0!"(platformBuildVersionCode33"2:0!"P
+*http://schemas.android.com/apk/res/androidcompileSdkVersionCodename13(óŠ„"(platformBuildVersionName13"2:0*
+
+    #*¶
+­uses-sdk"N
+*http://schemas.android.com/apk/res/androidminSdkVersion19"(Œ„„2:0"Q
+*http://schemas.android.com/apk/res/androidtargetSdkVersion33"(ğ„„2:0!*
+
+    (*Ë
+Âqueries*	
+        !*”
+‹intent*
+            "*e
+]action"S
+*http://schemas.android.com/apk/res/androidnameandroid.intent.action.VIEW(ƒ€„#*
+
+            #@*n
+fcategory"Z
+*http://schemas.android.com/apk/res/androidname!android.intent.category.BROWSABLE(ƒ€„%*
+
+            %I*P
+Hdata"@
+*http://schemas.android.com/apk/res/androidschemehttps(§€„'*	
+        '+"*
+    (!*
+
+    )*“L
+ŠLapplication"N
+*http://schemas.android.com/apk/res/androidallowBackuptrue"+(€…„2:@"n
+*http://schemas.android.com/apk/res/androidappComponentFactory&androidx.core.app.CoreComponentFactory(úŠ„"n
+*http://schemas.android.com/apk/res/androidicon@mipmap/ic_launcher"+(‚€„2
+€€¤ømipmap/ic_launcher"g
+*http://schemas.android.com/apk/res/androidlabel@string/appName"+(€„2
+€€¬østring/appName"Š
+*http://schemas.android.com/apk/res/androidmanageSpaceActivityBcom.google.androidbrowserhelper.trusted.ManageDataLauncherActivity(„€„"_
+*http://schemas.android.com/apk/res/androidname&io.github.waltermateus.twa.Application(ƒ€„"N
+*http://schemas.android.com/apk/res/androidsupportsRtltrue"+(¯‡„2:@"
+*http://schemas.android.com/apk/res/androidtheme+@android:style/Theme.Translucent.NoTitleBar"+(€€„23
+1€Œ*android:style/Theme.Translucent.NoTitleBar*	
+        3E*Û
+Ò	meta-data"I
+*http://schemas.android.com/apk/res/androidnameasset_statements(ƒ€„"z
+*http://schemas.android.com/apk/res/androidresource@string/assetStatements"4(¥€„2 
+‚€¬østring/assetStatements4*	
+        69*Ö
+Í	meta-data"I
+*http://schemas.android.com/apk/res/androidnameweb_manifest_url(ƒ€„"u
+*http://schemas.android.com/apk/res/androidvalue@string/webManifestUrl"7(¤€„2
+”€¬østring/webManifestUrl7*	
+        95*Ï
+Æ	meta-data"F
+*http://schemas.android.com/apk/res/androidnametwa_generator(ƒ€„"q
+*http://schemas.android.com/apk/res/androidvalue@string/generatorApp":(¤€„2
+‰€¬østring/generatorApp:*
+
+
+        <3*¬
+£activity"{
+*http://schemas.android.com/apk/res/androidnameBcom.google.androidbrowserhelper.trusted.ManageDataLauncherActivity(ƒ€„*
+            >e*ï
+æ	meta-data"l
+*http://schemas.android.com/apk/res/androidname3android.support.customtabs.trusted.MANAGE_SPACE_URL(ƒ€„"k
+*http://schemas.android.com/apk/res/androidvalue@string/launchUrl"?(¤€„2
+‹€¬østring/launchUrl?*	
+        A4>*	
+        B*Ì,
+Ã,activity"X
+*http://schemas.android.com/apk/res/androidalwaysRetainTaskStatetrue"C(ƒ„„2:@"K
+*http://schemas.android.com/apk/res/androidexportedtrue"C(€„2:@"q
+*http://schemas.android.com/apk/res/androidlabel@string/launcherName"C(€„2
+Œ€¬østring/launcherName"d
+*http://schemas.android.com/apk/res/androidname+io.github.waltermateus.twa.LauncherActivity(ƒ€„*
+            G2*ê
+á	meta-data"g
+*http://schemas.android.com/apk/res/androidname.android.support.customtabs.trusted.DEFAULT_URL(ƒ€„"k
+*http://schemas.android.com/apk/res/androidvalue@string/launchUrl"H(¤€„2
+‹€¬østring/launchUrlH*
+            J4*ö
+í	meta-data"l
+*http://schemas.android.com/apk/res/androidname3android.support.customtabs.trusted.STATUS_BAR_COLOR(ƒ€„"r
+*http://schemas.android.com/apk/res/androidresource@color/colorPrimary"K(¥€„2
+…€Œøcolor/colorPrimaryK*
+            M9*ƒ
+ú	meta-data"q
+*http://schemas.android.com/apk/res/androidname8android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK(ƒ€„"z
+*http://schemas.android.com/apk/res/androidresource@color/colorPrimaryDark"N(¥€„2 
+†€Œøcolor/colorPrimaryDarkN*
+            P=*€
+÷	meta-data"p
+*http://schemas.android.com/apk/res/androidname7android.support.customtabs.trusted.NAVIGATION_BAR_COLOR(ƒ€„"x
+*http://schemas.android.com/apk/res/androidresource@color/navigationColor"Q(¥€„2
+‡€Œøcolor/navigationColorQ*
+            S<*
+…	meta-data"u
+*http://schemas.android.com/apk/res/androidname<android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK(ƒ€„"€
+*http://schemas.android.com/apk/res/androidresource@color/navigationColorDark"T(¥€„2#
+!ˆ€Œøcolor/navigationColorDarkT*
+            V@*Œ
+ƒ	meta-data"m
+*http://schemas.android.com/apk/res/androidname4androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR(ƒ€„"†
+*http://schemas.android.com/apk/res/androidresource@color/navigationDividerColor"W(¥€„2&
+$‰€Œøcolor/navigationDividerColorW*
+            YC*™
+	meta-data"r
+*http://schemas.android.com/apk/res/androidname9androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK(ƒ€„"
+*http://schemas.android.com/apk/res/androidresource!@color/navigationDividerColorDark"Z(¥€„2*
+(Š€Œø color/navigationDividerColorDarkZ*
+            \G*õ
+ì	meta-data"q
+*http://schemas.android.com/apk/res/androidname8android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE(ƒ€„"l
+*http://schemas.android.com/apk/res/androidresource@drawable/splash"](¥€„2
+€”ødrawable/splash]*
+            _6*Š
+	meta-data"z
+*http://schemas.android.com/apk/res/androidnameAandroid.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR(ƒ€„"x
+*http://schemas.android.com/apk/res/androidresource@color/backgroundColor"`(¥€„2
+€€Œøcolor/backgroundColor`*
+            b<*¥
+œ	meta-data"{
+*http://schemas.android.com/apk/res/androidnameBandroid.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION(ƒ€„"‘
+*http://schemas.android.com/apk/res/androidvalue$@integer/splashScreenFadeOutDuration"c(¤€„2-
++€€œø#integer/splashScreenFadeOutDurationc*
+            eG*†
+ı	meta-data"s
+*http://schemas.android.com/apk/res/androidname:android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY(ƒ€„"{
+*http://schemas.android.com/apk/res/androidvalue@string/providerAuthority"f(¤€„2"
+ ‘€¬østring/providerAuthorityf*
+            h<*Î
+Å	meta-data"N
+*http://schemas.android.com/apk/res/androidnameandroid.app.shortcuts(ƒ€„"h
+*http://schemas.android.com/apk/res/androidresource@xml/shortcuts"i(¥€„2
+‚€¸øxml/shortcutsi*
+            k4*ö
+í	meta-data"m
+*http://schemas.android.com/apk/res/androidname4android.support.customtabs.trusted.FALLBACK_STRATEGY(ƒ€„"q
+*http://schemas.android.com/apk/res/androidvalue@string/fallbackType"l(¤€„2
+„€¬østring/fallbackTypel*
+            n7*Ã
+º	meta-data"h
+*http://schemas.android.com/apk/res/androidname/android.support.customtabs.trusted.DISPLAY_MODE(ƒ€„"C
+*http://schemas.android.com/apk/res/androidvalue	immersive(¤€„o*
+            q,*õ
+ì	meta-data"n
+*http://schemas.android.com/apk/res/androidname5android.support.customtabs.trusted.SCREEN_ORIENTATION(ƒ€„"o
+*http://schemas.android.com/apk/res/androidvalue@string/orientation"r(¤€„2
+€¬østring/orientationr*
+
+            t6*¼
+³intent-filter*
+                v*e
+]action"S
+*http://schemas.android.com/apk/res/androidnameandroid.intent.action.MAIN(ƒ€„w*
+
+                wD*m
+ecategory"Y
+*http://schemas.android.com/apk/res/androidname android.intent.category.LAUNCHER(ƒ€„y*
+            yLv*
+            z*ò
+éintent-filter"M
+*http://schemas.android.com/apk/res/android
+autoVerifytrue"{(î‰„2:@*
+                {6*e
+]action"S
+*http://schemas.android.com/apk/res/androidnameandroid.intent.action.VIEW(ƒ€„|*
+
+                |D*l
+dcategory"X
+*http://schemas.android.com/apk/res/androidnameandroid.intent.category.DEFAULT(ƒ€„~*
+                ~K*n
+fcategory"Z
+*http://schemas.android.com/apk/res/androidname!android.intent.category.BROWSABLE(ƒ€„*
+
+                M*½
+³data"i
+*http://schemas.android.com/apk/res/androidhost@string/hostName"(¨€„2
+Š€¬østring/hostName"@
+*http://schemas.android.com/apk/res/androidschemehttps(§€„*
+            ƒ-{*	
+        „C*	
+        …*ƒ
+zactivity"n
+*http://schemas.android.com/apk/res/androidname5com.google.androidbrowserhelper.trusted.FocusActivity(ƒ€„†*	
+        †Y*ô
+êactivity"d
+*http://schemas.android.com/apk/res/androidconfigChangesorientation|screenSize"‡(Ÿ€„2:8€	"x
+*http://schemas.android.com/apk/res/androidname?com.google.androidbrowserhelper.trusted.WebViewFallbackActivity(ƒ€„‡*
+
+
+        ‰=*«
+¡provider"‚
+*http://schemas.android.com/apk/res/androidauthorities@string/providerAuthority"‹(˜€„2"
+ ‘€¬østring/providerAuthority"M
+*http://schemas.android.com/apk/res/androidexportedfalse"‹(€„2:@ "W
+*http://schemas.android.com/apk/res/androidgrantUriPermissionstrue"‹(›€„2:@"[
+*http://schemas.android.com/apk/res/androidname"androidx.core.content.FileProvider(ƒ€„*
+            0*Ş
+Ô	meta-data"\
+*http://schemas.android.com/apk/res/androidname#android.support.FILE_PROVIDER_PATHS(ƒ€„"i
+*http://schemas.android.com/apk/res/androidresource@xml/filepaths"(¥€„2
+€€¸øxml/filepaths*	
+        ’4‹*
+
+
+        “*
+„service"|
+*http://schemas.android.com/apk/res/androidenabled@bool/enableNotification"•(€„2!
+€€ˆøbool/enableNotification"}
+*http://schemas.android.com/apk/res/androidexported@bool/enableNotification"•(€„2!
+€€ˆøbool/enableNotification"e
+*http://schemas.android.com/apk/res/androidname,io.github.waltermateus.twa.DelegationService(ƒ€„*
+            ˜9*è
+Şintent-filter*
+                ™*Œ
+‚action"x
+*http://schemas.android.com/apk/res/androidname?android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE(ƒ€„š*
+
+                ši*m
+dcategory"X
+*http://schemas.android.com/apk/res/androidnameandroid.intent.category.DEFAULT(ƒ€„œ*
+            œK™*	
+        •*
+    +*
+
+Ÿ

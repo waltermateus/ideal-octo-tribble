@@ -1,0 +1,8 @@
+io/github/waltermateus/twa/LauncherActivity.java
+ io.github.waltermateus.twa.LauncherActivity
+io/github/waltermateus/twa/BuildConfig.java
+ io.github.waltermateus.twa.BuildConfig
+io/github/waltermateus/twa/DelegationService.java
+ io.github.waltermateus.twa.DelegationService
+io/github/waltermateus/twa/Application.java
+ io.github.waltermateus.twa.Application
