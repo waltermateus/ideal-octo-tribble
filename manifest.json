@@ -1,7 +1,7 @@
 {
     "theme_color": "#4a90e2",
     "background_color": "#d0021b",
-    "display": "fullscreen",
+    "display": "standalone",
     "scope": "/ideal-octo-tribble/",
     "start_url": "/ideal-octo-tribble/",
     "name": "ideal octo tribble",
